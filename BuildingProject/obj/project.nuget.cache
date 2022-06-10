@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PRqwi3xiooXS45iqxhh23pMqiQrFo4UQABbF/muzXkSd5vJVY7Jc4NLPdqOjN86W0oSsL8Jac2k04khhHXsb+g==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\BuildingProject\\BuildingProject\\BuildingProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan_\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ivan_\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

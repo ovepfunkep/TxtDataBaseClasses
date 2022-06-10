@@ -1,0 +1,15 @@
+E:\Projects\BuildingProject\BuildingProject\bin\Debug\net6.0\BuildingProject.exe
+E:\Projects\BuildingProject\BuildingProject\bin\Debug\net6.0\BuildingProject.deps.json
+E:\Projects\BuildingProject\BuildingProject\bin\Debug\net6.0\BuildingProject.runtimeconfig.json
+E:\Projects\BuildingProject\BuildingProject\bin\Debug\net6.0\BuildingProject.dll
+E:\Projects\BuildingProject\BuildingProject\bin\Debug\net6.0\BuildingProject.pdb
+E:\Projects\BuildingProject\BuildingProject\obj\Debug\net6.0\BuildingProject.csproj.AssemblyReference.cache
+E:\Projects\BuildingProject\BuildingProject\obj\Debug\net6.0\BuildingProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\BuildingProject\BuildingProject\obj\Debug\net6.0\BuildingProject.AssemblyInfoInputs.cache
+E:\Projects\BuildingProject\BuildingProject\obj\Debug\net6.0\BuildingProject.AssemblyInfo.cs
+E:\Projects\BuildingProject\BuildingProject\obj\Debug\net6.0\BuildingProject.csproj.CoreCompileInputs.cache
+E:\Projects\BuildingProject\BuildingProject\obj\Debug\net6.0\BuildingProject.dll
+E:\Projects\BuildingProject\BuildingProject\obj\Debug\net6.0\refint\BuildingProject.dll
+E:\Projects\BuildingProject\BuildingProject\obj\Debug\net6.0\BuildingProject.pdb
+E:\Projects\BuildingProject\BuildingProject\obj\Debug\net6.0\BuildingProject.genruntimeconfig.cache
+E:\Projects\BuildingProject\BuildingProject\obj\Debug\net6.0\ref\BuildingProject.dll
